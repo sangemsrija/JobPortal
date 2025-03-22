@@ -10,3 +10,6 @@
 
 If i get two more days, i can complete the full-stack for this with all the necessary requirements. 
 for now, i have hard-coded the login page but later i can implement it dynamically using the bcrypt libraries. 
+
+Note: Unfortunately due to less time im unable to deploy but i have put the screenshots of it. Can you please consider those screenshots.
+
